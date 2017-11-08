@@ -1,0 +1,36 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: microservice-provider-user
+  jpa:
+    generate-ddl: false
+    show-sql: false
+    hibernate:
+      ddl-auto: none
+  datasource:
+    platform: mysql
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 1234567
+    url: jdbc:mysql://127.0.0.1:3306/springcloudtest
+  logging:
+    level:
+      root: INFO
+      org.hibernate: INFO
+      org.hibernate.type.descriptor.sql.BasicBinder: TRACE
+      org.hibernate.type.descriptor.sql.BasicExtractor: TRACE
+info:
+  app:
+    name: @project.artifactId@
+    encoding: @project.build.sourceEncoding@
+    java:
+      source: @java.version@
+      target: @java.version@
+eureka:
+  client:
+    service-url:
+      default-zone: http://localhost:8761
+  instance:
+    prefer-ip-address: true
+
