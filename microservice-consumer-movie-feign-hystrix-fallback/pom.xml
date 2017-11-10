@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.ian</groupId>
-	<artifactId>microservice-consumer-movie-feign</artifactId>
+	<artifactId>microservice-consumer-movie-feign-hystrix-fallback</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>microservice-simple-consumer-movie</name>
+	<name>microservice-simple-consumer-movie-feign</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>

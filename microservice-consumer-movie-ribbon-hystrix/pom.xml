@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.ian</groupId>
-	<artifactId>microservice-consumer-movie-feign</artifactId>
+	<artifactId>microservice-consumer-movie-ribbon-hystrix</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
@@ -47,8 +47,14 @@
 
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-feign</artifactId>
+			<artifactId>spring-cloud-starter-hystrix</artifactId>
 		</dependency>
+
+		<!--已经包含正在eureka里了，所以这里无需再次引入-->
+		<!--<dependency>-->
+			<!--<groupId>org.springframework.cloud</groupId>-->
+			<!--<artifactId>spring-cloud-starter-ribbon</artifactId>-->
+		<!--</dependency>-->
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
