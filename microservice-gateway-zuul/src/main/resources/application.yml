@@ -1,0 +1,17 @@
+server:
+  port: 8040
+spring:
+  application:
+    name: microservice-gateway-zuul
+eureka:
+  client:
+    service-url:
+      default-zone: http://localhost:8761
+zuul:
+  routes:
+    user-route:
+      service-id: microservice-provider-user
+      path: /user/**
+    movie-route:
+      service-id: microservice-consumer-movie
+      path: /movie/**
