@@ -15,3 +15,6 @@ zuul:
     movie-route:
       service-id: microservice-consumer-movie
       path: /movie/**
+logging:
+  level:
+    com.netflix: DEBUG
