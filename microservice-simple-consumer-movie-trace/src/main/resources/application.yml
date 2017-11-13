@@ -10,3 +10,8 @@ info:
     java:
       source: @java.version@
       target: @java.version@
+logging:
+  level:
+    root: info
+    org.springframework.web.servlet.DispatcherServlet: DEBUG
+    org.springframework.cloud.sleuth: DEBUG

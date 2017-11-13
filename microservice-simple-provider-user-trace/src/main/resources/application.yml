@@ -20,6 +20,7 @@ spring:
       org.hibernate: INFO
       org.hibernate.type.descriptor.sql.BasicBinder: TRACE
       org.hibernate.type.descriptor.sql.BasicExtractor: TRACE
+      org.springframework.web.servlet.DispatcherServlet: DEBUG
 info:
   app:
     name: @project.artifactId@
