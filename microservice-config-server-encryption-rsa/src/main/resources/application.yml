@@ -1,0 +1,18 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: microservice-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/ianzhengnan/spring-cloud-config-repo.git
+          username:
+          password:
+encrypt:
+  key-store:
+    location: server.jks  # jks文件位置
+    password: letmein # storepass
+    alias: mytestkey  # alias
+    secret: changeme  # keypass

@@ -1,0 +1,18 @@
+server:
+  port: 8071
+spring:
+  application:
+    name: microservice-sidecar-client-ribbon
+eureka:
+  client:
+    service-url:
+      default-zone: http://localhost:8761
+  instance:
+    prefer-ip-address: true
+info:
+  app:
+    name: @project.artifactId@
+    encoding: @project.build.sourceEncoding@
+    java:
+      source: @java.version@
+      target: @java.version@

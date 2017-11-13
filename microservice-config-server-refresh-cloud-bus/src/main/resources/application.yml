@@ -1,0 +1,20 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: microservice-config-server-refresh-cloud-bus
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/ianzhengnan/spring-cloud-config-repo.git
+          username:
+          password:
+    bus:
+      trace:
+        enabled: true
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
