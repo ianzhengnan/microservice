@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Nov 14 20:07:23 CST 2017
+default-http\://nexus\:8081/nexus/content/groups/build.releases/.lastUpdated=1510661243296
+http\://nexus\:8081/nexus/content/groups/build.releases/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.4.7.RELEASE from/to leandi.nexus.mirror (http\://nexus\:8081/nexus/content/groups/build.releases/)\: Connection to http\://nexus\:8081 refused
+default-http\://nexus\:8081/nexus/content/groups/build.snapshots/.lastUpdated=1510661243272
+http\://nexus\:8081/nexus/content/groups/build.snapshots/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.4.7.RELEASE from/to build.snapshots (http\://nexus\:8081/nexus/content/groups/build.snapshots/)\: Connection to http\://nexus\:8081 refused

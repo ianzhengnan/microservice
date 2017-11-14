@@ -1,0 +1,26 @@
+version: '2'
+services:
+  microservice-discovery-eureka:
+    image: flks555/microservice-discovery-eureka:0.0.1-SNAPSHOT
+    ports:
+      - "8761:8761"
+  microservice-provider-user:
+    image: flks555/microservice-provider-user:1.0-SNAPSHOT
+    links:
+      - microservice-discovery-eureka:discovery
+  microservice-gateway-zuul:
+    image: flks555/microservice-gateway-zuul:0.0.1-SNAPSHOT
+    links:
+      - microservice-discovery-eureka:discovery
+  microservice-hystrix-turbine:
+    image: flks555/microservice-hystrix-turbine:1.0-SNAPSHOT
+    links:
+      - microservice-discovery-eureka:discovery
+  microservice-hystrix-dashboard:
+    image: flks555/microservice-hystrix-dashboard:1.0-SNAPSHOT
+    links:
+      - microservice-discovery-eureka:discovery
+  microservice-consumer-movie-ribbon-hystrix:
+    image: flks555/microservice-consumer-movie-ribbon-hystrix:0.0.1-SNAPSHOT
+    links:
+      - microservice-discovery-eureka:discovery
