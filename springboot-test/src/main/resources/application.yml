@@ -1,0 +1,16 @@
+
+server:
+  context-path: /helloboot  # http://localhost:9090/helloboot
+book:
+  author: Ian zheng
+  name: spring boot
+author:
+  name: Ian Zheng
+  age: 35
+logging:
+  level: info
+  org.springframework.web: info
+spring:
+  profiles:
+    active: prod
+debug: true
