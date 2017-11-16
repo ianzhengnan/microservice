@@ -1,0 +1,7 @@
+#server:
+#  port: 8443
+#  ssl:
+#    key-store: .keystore
+#    key-store-password: 1234567
+#    key-store-type: JKS
+#    key-alias: tomcat
