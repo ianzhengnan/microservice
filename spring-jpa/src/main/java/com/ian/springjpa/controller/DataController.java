@@ -69,4 +69,9 @@ public class DataController {
     public Page<Person> page(){
         return pr.findAll(new PageRequest(1, 2));
     }
+
+    @RequestMapping("/auto")
+    public Page<Person> auto(Person person){
+        return pr.findByAuto(person, new PageRequest(0,10));
+    }
 }

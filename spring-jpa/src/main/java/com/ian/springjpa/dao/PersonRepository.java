@@ -1,13 +1,13 @@
 package com.ian.springjpa.dao;
 
 import com.ian.springjpa.domain.Person;
-import org.springframework.data.jpa.repository.JpaRepository;
+//import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 
 import java.util.List;
 
-public interface PersonRepository extends JpaRepository<Person, Long> {
+public interface PersonRepository extends CustomRepository<Person, Long> {
 
     List<Person> findByAddress(String name);
 
