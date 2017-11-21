@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    driver-class-name: oracle.jdbc.OracleDriver
+    url: jdbc:oracle:thin:@centos.docker:1521:xe
+    username: boot
+    password: boot
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
