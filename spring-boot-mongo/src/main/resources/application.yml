@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://centos.docker:27017/test  # uri和port, host, 只能配置一个
+      repositories:
+        enabled: true

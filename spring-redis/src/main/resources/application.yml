@@ -1,0 +1,4 @@
+spring:
+  redis:
+    host: centos.docker
+    port: 6379
