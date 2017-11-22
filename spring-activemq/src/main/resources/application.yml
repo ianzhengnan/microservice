@@ -1,0 +1,3 @@
+spring:
+  activemq:
+    broker-url: tcp://centos.docker:61616

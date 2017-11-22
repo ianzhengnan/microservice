@@ -1,0 +1,4 @@
+spring:
+  rabbitmq:
+    host: centos.docker
+    port: 5672

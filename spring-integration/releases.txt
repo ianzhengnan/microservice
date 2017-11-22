@@ -1,0 +1,44 @@
+《Spring Cloud Finchley.M3 Released》https://spring.io/blog/2017/10/31/spring-cloud-finchley-m3-released
+《Spring Security 5.0.0.RC1 Released》https://spring.io/blog/2017/11/01/spring-security-5-0-0-rc1-released
+《Spring Session 2.0.0.RC1 Released》https://spring.io/blog/2017/11/01/spring-session-2-0-0-rc1-released
+《Spring Integration 5.0 Release Candidate 1 Available》https://spring.io/blog/2017/11/01/spring-integration-5-0-release-candidate-1-available
+《Spring Batch 4.0.0.RC1 is now available》https://spring.io/blog/2017/11/02/spring-batch-4-0-0-rc1-is-now-available
+《Spring Boot 2.0.0 M6 available now》https://spring.io/blog/2017/11/06/spring-boot-2-0-0-m6-available-now
+《Spring For Apache Kafka 2.1 RC1 and 2.0.1 & 1.3.1 Available》https://spring.io/blog/2017/11/09/spring-for-apache-kafka-2-1-rc1-and-2-0-1-1-3-1-available
+《Spring Cloud Task 2.0.0.M2 is now available》https://spring.io/blog/2017/11/10/spring-cloud-task-2-0-0-m2-is-now-available
+《Spring Cloud Finchley.M4 Released》https://spring.io/blog/2017/11/18/spring-cloud-finchley-m4-released
+《Spring Cloud Skipper 1.0 M2 Released》https://spring.io/blog/2017/11/21/spring-cloud-skipper-1-0-m2-released
+《Spring Security OAuth 2.2.1 Released》https://spring.io/blog/2017/11/21/spring-security-oauth-2-2-1-released
+《Spring Cloud Finchley.M3 Released》https://spring.io/blog/2017/10/31/spring-cloud-finchley-m3-released
+《Spring Security 5.0.0.RC1 Released》https://spring.io/blog/2017/11/01/spring-security-5-0-0-rc1-released
+《Spring Session 2.0.0.RC1 Released》https://spring.io/blog/2017/11/01/spring-session-2-0-0-rc1-released
+《Spring Integration 5.0 Release Candidate 1 Available》https://spring.io/blog/2017/11/01/spring-integration-5-0-release-candidate-1-available
+《Spring Batch 4.0.0.RC1 is now available》https://spring.io/blog/2017/11/02/spring-batch-4-0-0-rc1-is-now-available
+《Spring Boot 2.0.0 M6 available now》https://spring.io/blog/2017/11/06/spring-boot-2-0-0-m6-available-now
+《Spring For Apache Kafka 2.1 RC1 and 2.0.1 & 1.3.1 Available》https://spring.io/blog/2017/11/09/spring-for-apache-kafka-2-1-rc1-and-2-0-1-1-3-1-available
+《Spring Cloud Task 2.0.0.M2 is now available》https://spring.io/blog/2017/11/10/spring-cloud-task-2-0-0-m2-is-now-available
+《Spring Cloud Finchley.M4 Released》https://spring.io/blog/2017/11/18/spring-cloud-finchley-m4-released
+《Spring Cloud Skipper 1.0 M2 Released》https://spring.io/blog/2017/11/21/spring-cloud-skipper-1-0-m2-released
+《Spring Security OAuth 2.2.1 Released》https://spring.io/blog/2017/11/21/spring-security-oauth-2-2-1-released
+《Spring Cloud Finchley.M3 Released》https://spring.io/blog/2017/10/31/spring-cloud-finchley-m3-released
+《Spring Security 5.0.0.RC1 Released》https://spring.io/blog/2017/11/01/spring-security-5-0-0-rc1-released
+《Spring Session 2.0.0.RC1 Released》https://spring.io/blog/2017/11/01/spring-session-2-0-0-rc1-released
+《Spring Integration 5.0 Release Candidate 1 Available》https://spring.io/blog/2017/11/01/spring-integration-5-0-release-candidate-1-available
+《Spring Batch 4.0.0.RC1 is now available》https://spring.io/blog/2017/11/02/spring-batch-4-0-0-rc1-is-now-available
+《Spring Boot 2.0.0 M6 available now》https://spring.io/blog/2017/11/06/spring-boot-2-0-0-m6-available-now
+《Spring For Apache Kafka 2.1 RC1 and 2.0.1 & 1.3.1 Available》https://spring.io/blog/2017/11/09/spring-for-apache-kafka-2-1-rc1-and-2-0-1-1-3-1-available
+《Spring Cloud Task 2.0.0.M2 is now available》https://spring.io/blog/2017/11/10/spring-cloud-task-2-0-0-m2-is-now-available
+《Spring Cloud Finchley.M4 Released》https://spring.io/blog/2017/11/18/spring-cloud-finchley-m4-released
+《Spring Cloud Skipper 1.0 M2 Released》https://spring.io/blog/2017/11/21/spring-cloud-skipper-1-0-m2-released
+《Spring Security OAuth 2.2.1 Released》https://spring.io/blog/2017/11/21/spring-security-oauth-2-2-1-released
+《Spring Cloud Finchley.M3 Released》https://spring.io/blog/2017/10/31/spring-cloud-finchley-m3-released
+《Spring Security 5.0.0.RC1 Released》https://spring.io/blog/2017/11/01/spring-security-5-0-0-rc1-released
+《Spring Session 2.0.0.RC1 Released》https://spring.io/blog/2017/11/01/spring-session-2-0-0-rc1-released
+《Spring Integration 5.0 Release Candidate 1 Available》https://spring.io/blog/2017/11/01/spring-integration-5-0-release-candidate-1-available
+《Spring Batch 4.0.0.RC1 is now available》https://spring.io/blog/2017/11/02/spring-batch-4-0-0-rc1-is-now-available
+《Spring Boot 2.0.0 M6 available now》https://spring.io/blog/2017/11/06/spring-boot-2-0-0-m6-available-now
+《Spring For Apache Kafka 2.1 RC1 and 2.0.1 & 1.3.1 Available》https://spring.io/blog/2017/11/09/spring-for-apache-kafka-2-1-rc1-and-2-0-1-1-3-1-available
+《Spring Cloud Task 2.0.0.M2 is now available》https://spring.io/blog/2017/11/10/spring-cloud-task-2-0-0-m2-is-now-available
+《Spring Cloud Finchley.M4 Released》https://spring.io/blog/2017/11/18/spring-cloud-finchley-m4-released
+《Spring Cloud Skipper 1.0 M2 Released》https://spring.io/blog/2017/11/21/spring-cloud-skipper-1-0-m2-released
+《Spring Security OAuth 2.2.1 Released》https://spring.io/blog/2017/11/21/spring-security-oauth-2-2-1-released

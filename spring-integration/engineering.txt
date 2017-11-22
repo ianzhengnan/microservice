@@ -1,0 +1,45 @@
+《Spring Tips: Spring Shell》https://spring.io/blog/2017/11/01/spring-tips-spring-shell
+《This Week in Spring - November 7th, 2017》https://spring.io/blog/2017/11/07/this-week-in-spring-november-7th-2017
+《Spring Session Data Geode/GemFire 2.0.0.RC1 Available》https://spring.io/blog/2017/11/07/spring-session-data-geode-gemfire-2-0-0-rc1-available
+《Spring Tips: Bootiful Kotlin Redux》https://spring.io/blog/2017/11/08/spring-tips-bootiful-kotlin-redux
+《Spring Cloud Stream Elmhurst.M3 /2.0.0.M3 Release Announcement》https://spring.io/blog/2017/11/09/spring-cloud-stream-elmhurst-m3-2-0-0-m3-release-announcement
+《This Week in Spring - November 14th 2017》https://spring.io/blog/2017/11/14/this-week-in-spring-november-14th-2017
+《Spring Tips: the Spring Boot Build Plugin》https://spring.io/blog/2017/11/15/spring-tips-the-spring-boot-build-plugin
+《This Week in Spring - November 21st, 2017》https://spring.io/blog/2017/11/21/this-week-in-spring-november-21st-2017
+《Spring Tips: Bootiful Testing》https://spring.io/blog/2017/11/22/spring-tips-bootiful-testing
+《Spring Tips: Spring Shell》https://spring.io/blog/2017/11/01/spring-tips-spring-shell
+《This Week in Spring - November 7th, 2017》https://spring.io/blog/2017/11/07/this-week-in-spring-november-7th-2017
+《Spring Session Data Geode/GemFire 2.0.0.RC1 Available》https://spring.io/blog/2017/11/07/spring-session-data-geode-gemfire-2-0-0-rc1-available
+《Spring Tips: Bootiful Kotlin Redux》https://spring.io/blog/2017/11/08/spring-tips-bootiful-kotlin-redux
+《Spring Cloud Stream Elmhurst.M3 /2.0.0.M3 Release Announcement》https://spring.io/blog/2017/11/09/spring-cloud-stream-elmhurst-m3-2-0-0-m3-release-announcement
+《This Week in Spring - November 14th 2017》https://spring.io/blog/2017/11/14/this-week-in-spring-november-14th-2017
+《Spring Tips: the Spring Boot Build Plugin》https://spring.io/blog/2017/11/15/spring-tips-the-spring-boot-build-plugin
+《This Week in Spring - November 21st, 2017》https://spring.io/blog/2017/11/21/this-week-in-spring-november-21st-2017
+《Spring Tips: Bootiful Testing》https://spring.io/blog/2017/11/22/spring-tips-bootiful-testing
+《Spring Tips: Spring Shell》https://spring.io/blog/2017/11/01/spring-tips-spring-shell
+《This Week in Spring - November 7th, 2017》https://spring.io/blog/2017/11/07/this-week-in-spring-november-7th-2017
+《Spring Session Data Geode/GemFire 2.0.0.RC1 Available》https://spring.io/blog/2017/11/07/spring-session-data-geode-gemfire-2-0-0-rc1-available
+《Spring Tips: Bootiful Kotlin Redux》https://spring.io/blog/2017/11/08/spring-tips-bootiful-kotlin-redux
+《Spring Cloud Stream Elmhurst.M3 /2.0.0.M3 Release Announcement》https://spring.io/blog/2017/11/09/spring-cloud-stream-elmhurst-m3-2-0-0-m3-release-announcement
+《This Week in Spring - November 14th 2017》https://spring.io/blog/2017/11/14/this-week-in-spring-november-14th-2017
+《Spring Tips: the Spring Boot Build Plugin》https://spring.io/blog/2017/11/15/spring-tips-the-spring-boot-build-plugin
+《This Week in Spring - November 21st, 2017》https://spring.io/blog/2017/11/21/this-week-in-spring-november-21st-2017
+《Spring Tips: Bootiful Testing》https://spring.io/blog/2017/11/22/spring-tips-bootiful-testing
+《Spring Tips: Spring Shell》https://spring.io/blog/2017/11/01/spring-tips-spring-shell
+《This Week in Spring - November 7th, 2017》https://spring.io/blog/2017/11/07/this-week-in-spring-november-7th-2017
+《Spring Session Data Geode/GemFire 2.0.0.RC1 Available》https://spring.io/blog/2017/11/07/spring-session-data-geode-gemfire-2-0-0-rc1-available
+《Spring Tips: Bootiful Kotlin Redux》https://spring.io/blog/2017/11/08/spring-tips-bootiful-kotlin-redux
+《Spring Cloud Stream Elmhurst.M3 /2.0.0.M3 Release Announcement》https://spring.io/blog/2017/11/09/spring-cloud-stream-elmhurst-m3-2-0-0-m3-release-announcement
+《This Week in Spring - November 14th 2017》https://spring.io/blog/2017/11/14/this-week-in-spring-november-14th-2017
+《Spring Tips: the Spring Boot Build Plugin》https://spring.io/blog/2017/11/15/spring-tips-the-spring-boot-build-plugin
+《This Week in Spring - November 21st, 2017》https://spring.io/blog/2017/11/21/this-week-in-spring-november-21st-2017
+《Spring Tips: Bootiful Testing》https://spring.io/blog/2017/11/22/spring-tips-bootiful-testing
+《Spring Tips: Spring Shell》https://spring.io/blog/2017/11/01/spring-tips-spring-shell
+《This Week in Spring - November 7th, 2017》https://spring.io/blog/2017/11/07/this-week-in-spring-november-7th-2017
+《Spring Session Data Geode/GemFire 2.0.0.RC1 Available》https://spring.io/blog/2017/11/07/spring-session-data-geode-gemfire-2-0-0-rc1-available
+《Spring Tips: Bootiful Kotlin Redux》https://spring.io/blog/2017/11/08/spring-tips-bootiful-kotlin-redux
+《Spring Cloud Stream Elmhurst.M3 /2.0.0.M3 Release Announcement》https://spring.io/blog/2017/11/09/spring-cloud-stream-elmhurst-m3-2-0-0-m3-release-announcement
+《This Week in Spring - November 14th 2017》https://spring.io/blog/2017/11/14/this-week-in-spring-november-14th-2017
+《Spring Tips: the Spring Boot Build Plugin》https://spring.io/blog/2017/11/15/spring-tips-the-spring-boot-build-plugin
+《This Week in Spring - November 21st, 2017》https://spring.io/blog/2017/11/21/this-week-in-spring-november-21st-2017
+《Spring Tips: Bootiful Testing》https://spring.io/blog/2017/11/22/spring-tips-bootiful-testing
