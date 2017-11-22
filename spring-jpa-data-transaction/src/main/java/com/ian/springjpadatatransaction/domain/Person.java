@@ -25,6 +25,12 @@ public class Person {
         this.address = address;
     }
 
+    public Person(String name, Integer age, String address) {
+        this.name = name;
+        this.age = age;
+        this.address = address;
+    }
+
     public Long getId() {
         return id;
     }

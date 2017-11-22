@@ -6,6 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.util.List;
+
 @Service
 public class PersonServiceImpl implements PersonService {
 
@@ -30,5 +32,10 @@ public class PersonServiceImpl implements PersonService {
             throw new IllegalArgumentException("郑楠虽然已经存在，但是不会回滚");
         }
         return p;
+    }
+
+    @Override
+    public List<Person> findAllPerson() {
+        return pr.findAll();
     }
 }
