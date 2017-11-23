@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: person
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: CONFIG
+eureka:
+  instance:
+    non-secure-port: ${server.port:8082}
+  client:
+    service-url:
+      default-zone: http://${eureka.host:localhost}:${eureka.port:8761}/eureka/
